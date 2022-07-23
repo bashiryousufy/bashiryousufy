@@ -1,19 +1,22 @@
 ### 👋 Hola I'm Mohammad Bashir
 
 
-- 👀 I’m interested in UI/UX and backEnd
-- 🌱 I’m currently learning how to work with API's
-- 💞️ I’m looking to collaborate on UI/UX Designs
+- 👀 I’m interested in Backend Development
+- 🌱 I’m currently learning how to build real-time applications
 - 📫 How to reach me Bashiryousufy@gmail.com
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammad-bashir-1159b527/)](https://www.linkedin.com/in/mohammad-bashir-1159b527/)
+[![Linkedin Badge](https://img.shields.io/badge/-MohammadBashir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammad-bashir-1159b527/)](https://www.linkedin.com/in/mohammad-bashir-1159b527/)
 
 ## ⚡ Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Dart](https://img.shields.io/badge/-Dart-black?style=flat-square&logo=Dart)
+![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=Flutter)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![PHP](https://img.shields.io/badge/-php-black?style=flat-square&logo=php)
+![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=Laravel)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
