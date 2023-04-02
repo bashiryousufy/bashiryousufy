@@ -34,8 +34,8 @@
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 ## 📈 Stats
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bashiryousufy&show_icons=true&theme=radient)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bashiryousufy&show_icons=true&theme=radient)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bashiryousufy&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bashiryousufy&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bashiryousufy.bashiryousufy)
