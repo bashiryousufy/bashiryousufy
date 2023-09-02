@@ -12,7 +12,6 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Dart](https://img.shields.io/badge/-Dart-black?style=flat-square&logo=Dart)
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=Flutter)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![PHP](https://img.shields.io/badge/-php-black?style=flat-square&logo=php)
