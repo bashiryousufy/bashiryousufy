@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-MohammadBashir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammad-bashir-1159b527/)](https://www.linkedin.com/in/mohammad-bashir-1159b527/)
 [![Email Badge](https://img.shields.io/badge/-MohammadBashir-red?style=flat-square&logo=Gmail&logoColor=white&link=https://www.linkedin.com/in/mohammad-bashir-1159b527/)](mailto:bashiryousufy@gmail.com)
 
-## ⚡ Technologies
+## Languages & Tools:
 
 ### Frontend:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
