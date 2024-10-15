@@ -1,27 +1,61 @@
-# 💫 About Me:
-Passionate coder and lifelong learner, eager to collaborate and innovate.
+# Hi there, I'm Mohammad Bashir Habibullah! 👋
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-bashir-dev/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bashiryousufy11) 
+I'm a passionate Full Stack Developer with a love for building efficient and scalable solutions. Whether it's a new web app, a complex backend infrastructure, or a mobile application, I enjoy bringing ideas to life through code.
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bashiryousufy&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=bashiryousufy&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bashiryousufy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bashiryousufy&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
-
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+## 🌟 About Me
+- 💻 Full Stack Developer with experience in building comprehensive solutions for F&B, SaaS, and e-commerce.
+- 🌱 Lifelong learner always exploring new technologies and improving my skills.
+- 🤝 Love collaborating and problem-solving with teams to create innovative and efficient solutions.
+- 🛠 Constantly building and maintaining live applications to streamline business operations.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=bashiryousufy&icon=1&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/bashiryousufy) 
+## 🚀 Tech Stack
+### Programming Languages:
+- Dart, JavaScript, TypeScript, Java, Kotlin, PHP, HTML5, CSS3
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Frameworks & Libraries:
+- NodejS, Flutter, React, AdonisJS, Laravel, Express.js, Bootstrap, jQuery, React Router, React Hook Form, Chart.js, Prisma, React Query, AntDesign
+
+### Databases:
+- MySQL, Postgres, SQLite, MongoDb
+
+### Cloud & Deployment:
+- AWS, Azure, Google Cloud, Firebase, Vercel, Render, Apache, Nginx
+
+### Tools & Platforms:
+- Git, GitHub, GitLab, Bitbucket, NPM, Vite, Adobe Lightroom, Adobe XD, Figma, Canva
+
+---
+
+## 🏆 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bashiryousufy&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bashiryousufy&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bashiryousufy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+## 🎯 What I'm Working On
+
+- 🛒 **Multi-Tenant E-commerce System** – Architecting a scalable, multi-tenant system where merchants can manage products, locations, and customers independently. I'm integrating a **voucher system** that rewards customers with discounts and special offers based on their membership points.
+
+- 🔐 **Role-Based Access Control** – Building a customizable dashboard for SaaS businesses with granular permission control. The system allows admins to assign roles and manage user permissions seamlessly, all powered by **AdonisJS**.
+
+- 💳 **Subscription-Based Services** – Developing a recurring payment system using **AdonisJS**. It handles silent billing, notifications for failed transactions, and offers users various subscription plans to choose from.
+
+---
+
+
+
+
+## 💡 Fun Fact
+I'm always down for a good coding challenge and love diving into complex problems. Whether it's building efficient algorithms or structuring scalable backends, I’m all about turning obstacles into opportunities.
+
+---
+
+## ☕ Support Me
+If you like what I do or want to help me continue building awesome projects, feel free to [Buy Me a Coffee](https://buymeacoffee.com/bashiryousufy).
+
+---
+
+Thanks for stopping by! Feel free to reach out or connect with me on [LinkedIn](https://linkedin.com/in/mohammad-bashir-dev) or follow me on [X](https://x.com/bashiryousufy11).
